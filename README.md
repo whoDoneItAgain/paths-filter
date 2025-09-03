@@ -2,7 +2,7 @@
 
 Repository forked on 2025-09-03 due to inactivity on dorny/paths-filter and by dorny for greater than 18 months.
 
-# Paths Changes Filter
+## Paths Changes Filter
 
 [GitHub Action](https://github.com/features/actions) that enables conditional execution of workflow steps and jobs, based on the files modified by pull request, on a feature
 branch, or by the recently pushed commits.
@@ -187,7 +187,7 @@ For more information, see [CHANGELOG](https://github.com/whoDoneItAgain/paths-fi
 ## Examples
 
 ### Conditional execution
-
+<!-- markdownlint-disable MD033 -->
 <details>
   <summary>Execute <b>step</b> in a workflow job only if some file in a subfolder is changed</summary>
 

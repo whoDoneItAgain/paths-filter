@@ -27,6 +27,7 @@ jobs:
             chore
             configuration
             dependencies
+            documentation
             enhancement
             maintenance
           add_comment: true
